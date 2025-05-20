@@ -1,0 +1,32 @@
+D:\regular show\class video game\class video game\bin\Debug\class video game.exe.config
+D:\regular show\class video game\class video game\bin\Debug\class video game.exe
+D:\regular show\class video game\class video game\bin\Debug\class video game.pdb
+D:\regular show\class video game\class video game\obj\Debug\class video game.csproj.AssemblyReference.cache
+D:\regular show\class video game\class video game\obj\Debug\class video game.csproj.SuggestedBindingRedirects.cache
+D:\regular show\class video game\class video game\obj\Debug\class_video_game.Form1.resources
+D:\regular show\class video game\class video game\obj\Debug\class_video_game.Properties.Resources.resources
+D:\regular show\class video game\class video game\obj\Debug\class video game.csproj.GenerateResource.cache
+D:\regular show\class video game\class video game\obj\Debug\class video game.csproj.CoreCompileInputs.cache
+D:\regular show\class video game\class video game\obj\Debug\class video game.exe
+D:\regular show\class video game\class video game\obj\Debug\class video game.pdb
+H:\class video game\class video game\obj\Debug\class video game.csproj.AssemblyReference.cache
+H:\class video game\class video game\obj\Debug\class video game.csproj.SuggestedBindingRedirects.cache
+H:\class video game\class video game\obj\Debug\class_video_game.Form1.resources
+H:\class video game\class video game\obj\Debug\class_video_game.Properties.Resources.resources
+H:\class video game\class video game\obj\Debug\class video game.csproj.GenerateResource.cache
+H:\class video game\class video game\obj\Debug\class video game.csproj.CoreCompileInputs.cache
+H:\class video game\class video game\obj\Debug\class video game.exe
+H:\class video game\class video game\obj\Debug\class video game.pdb
+H:\class video game\class video game\bin\Debug\class video game.exe.config
+H:\class video game\class video game\bin\Debug\class video game.exe
+H:\class video game\class video game\bin\Debug\class video game.pdb
+D:\class video game\class video game\bin\Debug\class video game.exe.config
+D:\class video game\class video game\bin\Debug\class video game.exe
+D:\class video game\class video game\bin\Debug\class video game.pdb
+D:\class video game\class video game\obj\Debug\class video game.csproj.AssemblyReference.cache
+D:\class video game\class video game\obj\Debug\class_video_game.Form1.resources
+D:\class video game\class video game\obj\Debug\class_video_game.Properties.Resources.resources
+D:\class video game\class video game\obj\Debug\class video game.csproj.GenerateResource.cache
+D:\class video game\class video game\obj\Debug\class video game.csproj.CoreCompileInputs.cache
+D:\class video game\class video game\obj\Debug\class video game.exe
+D:\class video game\class video game\obj\Debug\class video game.pdb
